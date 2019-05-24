@@ -1,0 +1,3 @@
+/home/piero/Downloads/union-find-Piero16301/Union_find/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/piero/Downloads/union-find-Piero16301/Union_find/cmake-build-debug/CMakeFiles/Union_find.dir
+/home/piero/Downloads/union-find-Piero16301/Union_find/cmake-build-debug/CMakeFiles/edit_cache.dir

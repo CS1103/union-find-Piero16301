@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Downloads/union-find-Piero16301/Union_find/UnionFind.cpp
+UnionFind.h
+/home/piero/Downloads/union-find-Piero16301/Union_find/UnionFind.h
+
+/home/piero/Downloads/union-find-Piero16301/Union_find/UnionFind.h
+
+/home/piero/Downloads/union-find-Piero16301/Union_find/main.cpp
+iostream
+-
+UnionFind.h
+/home/piero/Downloads/union-find-Piero16301/Union_find/UnionFind.h
+stdio.h
+-
+
